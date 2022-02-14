@@ -1,0 +1,8 @@
+geopandas
+openrouteservice
+requests
+matplotlib
+ohsome
+ipywidgets
+jupyter_contrib_nbextensions
+ipyleaflet
