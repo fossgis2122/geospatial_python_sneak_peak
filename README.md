@@ -7,7 +7,7 @@ This repository gives a brief demonstration of how to perform geospatial analysi
 To get started right away without setting up the Python environment on your computer, you can run the analysis on [myBinder.org](https://mybinder.org/v2/gh/fossgis2122/geospatial_python_sneak_peak/HEAD?labpath=apartment_search.ipynb). Just click the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fossgis2122/geospatial_python_sneak_peak/HEAD?labpath=apartment_search.ipynb) button.
 
 <p align=center>
-<img src="./img/analysis2.png" width=500px/>
+<img src="./img/analysis.png" width=500px/>
 </p>
 
 If you'd like to install and run it on your own computer, see below.  
