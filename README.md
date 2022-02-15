@@ -1,10 +1,16 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fossgis2122/geospatial_python_sneak_peak/HEAD?labpath=apartment_search.ipynb)
+
 # Geospatial Python Sneak Peak
 
-This repository gives a brief demonstration of how to perform geospatial analysis using Python. It is a classic site selection analysis to find a suitable apartment. Apart from Python it is making use of openrouteservice and ohsome API.
+This repository gives a brief demonstration of how to perform geospatial analysis using Python, openrouteservice and ohsome API. It is a classic site selection analysis to find a suitable apartment.
 
+To get started right away without setting up the Python environment on your computer, you can rund the analysis on [myBinder.org](https://mybinder.org/v2/gh/fossgis2122/geospatial_python_sneak_peak/HEAD?labpath=apartment_search.ipynb). Just click the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fossgis2122/geospatial_python_sneak_peak/HEAD?labpath=apartment_search.ipynb) button.
+
+<p align=center>
 <img src="./img/analysis.png" width=500px/>
+</p>
 
-You can rund the analysis on a server from [myBinder.org]() so you don't have to set up the Python envrionment on your own computer. But if you'd like to, of course you can.
+If you'd like to install and run it on your own computer, see below.  
 
 ## Installation
 
